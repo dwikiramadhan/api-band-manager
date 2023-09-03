@@ -4,9 +4,14 @@
 Step by step to running this project
 - Clone this repo
 - `npm install` to install all required dependencies
-- Import the database `band_mgr.sql` file to pg_admin or navicat or etc 
+- Import the database `band_mgr.sql` file to pg_admin or navicat or etc. The database using Postgresql
 - `npm run dev` to start the local server
 - `npm test` to test the band endpoint
+
+The project running well in:
+- Node: v16.15.1
+- NPM: 9.6.7
+- PostgreSQL 14.3
 
 # API Documentation
 this config site for API documentation http://{host}:{port}/api-docs/
