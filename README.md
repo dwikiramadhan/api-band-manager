@@ -5,6 +5,7 @@ Step by step to running this project
 - Clone this repo
 - `npm install` to install all required dependencies
 - Import the database `band_mgr.sql` file to pg_admin or navicat or etc. The database using Postgresql
+- Copy .env.example and paste to .env and then config the document with your environment
 - `npm run dev` to start the local server
 - `npm test` to test the band endpoint
 
