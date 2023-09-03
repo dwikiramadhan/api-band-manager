@@ -14,7 +14,7 @@ The project running well in:
 - PostgreSQL 14.3
 
 # API Documentation
-this config site for API documentation http://{host}:{port}/api-docs/
+this config site for API documentation is http://{host}:{port}/api-docs/
 
 # Flow API
 - Create a band
