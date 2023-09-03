@@ -9,7 +9,7 @@ Step by step to running this project
 - `npm test` to test the band endpoint
 
 # API Documentation
-this site for api documentation [link](http://{host}:{port}/api-docs/)
+this config site for API documentation http://{host}:{port}/api-docs/
 
 # Flow Database
 ![Diagram 1](https://github.com/dwikiramadhan/api-band-manager/assets/10826698/215bd2eb-1870-4c99-8937-5538391de500)
